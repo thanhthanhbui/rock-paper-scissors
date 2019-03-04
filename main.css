@@ -1,0 +1,23 @@
+* {
+  background-color: teal;
+}
+
+h1 {
+  text-align: center;
+  color: orange;
+  font-style: oblique
+}
+
+h3 {
+  text-align: center;
+  color: brown;
+}
+
+.btn {
+  border: 3px solid black;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
